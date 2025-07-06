@@ -73,8 +73,3 @@
 
 4. Consumir el servicio `/predict-upload` y subir alguna imagen para predecir.  
    Puedes usar imágenes dentro de la carpeta del proyecto.
-
----
-
-¡Listo!  
-Cualquier duda o sugerencia, avísame.
