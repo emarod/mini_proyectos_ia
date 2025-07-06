@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pillow
+pytesseract
+python-multipart
+beautifulsoup4
+requests
+tinydb
+spacy==2.3.5
+pydantic
+torch
+torchvision
