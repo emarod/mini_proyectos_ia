@@ -1,7 +1,7 @@
 
 # Proyecto Multi-partes: OCR, Scraping, Chatbot y CNN Predictiva
 
----
+--- Python 3.9.21
 
 ## Parte 1 – OCR con FastAPI y Frontend React
 
